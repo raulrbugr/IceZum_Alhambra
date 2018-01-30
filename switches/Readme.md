@@ -1,7 +1,7 @@
 ## Descripción
-Componente para usar los dos switches y los LED,
+Componente hecho enteramente en Verilog para usar los dos switches y los LED,
 Al cargarlo en la iCE40-HX8K se encienden los 4 LED de mas peso, si pulsamos los switches podemos ver como se apagan o encienden los otros leds.
-
+La idea es que sirva de ejemplo para punto de partida para proyectos más interesantes o divertidos.
 
 ## Síntesis
 
