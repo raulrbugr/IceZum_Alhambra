@@ -1,0 +1,17 @@
+# ##############################################################################
+# iCEcube PCF
+# Family & Device:    iCE40HX8K
+# 
+# ##############################################################################
+
+set_io LED1 95
+set_io LED2 96
+set_io LED3 97
+set_io LED4 98
+set_io LED5 99
+set_io LED6 101
+set_io LED7 102
+set_io LED8 104
+
+set_io SW1	10
+set_io SW2	11
